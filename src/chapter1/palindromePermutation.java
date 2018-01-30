@@ -20,7 +20,7 @@ public class palindromePermutation {
 
     public static void main(String[] args) {
         palindromePermutation test = new palindromePermutation();
-        boolean result = test.isPalindrome("tacocat0");
+        boolean result = test.isPalindrome("tacocat");
         System.out.println(result);
     }
 }
